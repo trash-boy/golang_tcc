@@ -1,0 +1,17 @@
+2023-10-15T17:22:41.154+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 1, comonent id: componentB, err: NOAUTH Authentication required.
+2023-10-15T17:22:41.165+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 1, comonent id: componentA, err: NOAUTH Authentication required.
+2023-10-15T17:22:41.165+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 1, comonent id: componentC, err: NOAUTH Authentication required.
+2023-10-15T17:23:58.804+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 2, comonent id: componentB, err: NOAUTH Authentication required.
+2023-10-15T17:23:58.815+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 2, comonent id: componentA, err: NOAUTH Authentication required.
+2023-10-15T17:23:58.815+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 2, comonent id: componentC, err: NOAUTH Authentication required.
+2023-10-15T17:23:58.836+0800	ERROR	txmanager/txmanager.go:245	tx updated failed, tx id: 2, component id: componentC, err: context canceled
+2023-10-15T17:23:58.836+0800	ERROR	txmanager/txmanager.go:245	tx updated failed, tx id: 2, component id: componentA, err: context canceled
+2023-10-15T17:26:26.115+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 4, comonent id: componentA, err: NOAUTH Authentication required.
+2023-10-15T17:26:26.104+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 4, comonent id: componentC, err: NOAUTH Authentication required.
+2023-10-15T17:26:26.115+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 4, comonent id: componentB, err: NOAUTH Authentication required.
+2023-10-15T17:28:05.571+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 5, comonent id: componentA, err: NOAUTH Authentication required.
+2023-10-15T17:28:05.561+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 5, comonent id: componentC, err: NOAUTH Authentication required.
+2023-10-15T17:28:05.571+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 5, comonent id: componentB, err: NOAUTH Authentication required.
+2023-10-15T17:29:09.672+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 6, comonent id: componentA, err: NOAUTH Authentication required.
+2023-10-15T17:29:09.683+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 6, comonent id: componentC, err: NOAUTH Authentication required.
+2023-10-15T17:29:09.683+0800	ERROR	txmanager/txmanager.go:242	tx try failed, tx id: 6, comonent id: componentB, err: NOAUTH Authentication required.
